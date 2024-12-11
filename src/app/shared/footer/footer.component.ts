@@ -21,7 +21,7 @@ import { Subscription } from 'rxjs';
   styleUrls: ['./footer.component.scss']
 })
 export class FooterComponent implements OnInit, OnDestroy {
-
+/** /home/kulen/web-app/src/app/shared/footer/footer.component.ts */
   /** Mifos X version. */
   versions: any = {
     mifos: environment.version,
